@@ -1,4 +1,4 @@
-## [Welcome to the Revolt Social Network](https://www.google.com "Revolt Social Network")
+## [Welcome to the Revolt Social Network](https://tylerfurbyceo.github.io/Revolt-Social-Network/ "Revolt Social Network")
 
 Annoyed with the standard social networking sites? We are too... It's time for a change.
 
